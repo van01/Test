@@ -1,0 +1,20 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "42TZV48736.com.netmarble.magu2",
+                "paths": [
+                    "/ul/app,
+                    "/ul/shop,
+                ]
+            },
+            {
+                "appID": "42TZV48736.com.netmarble.magu2ent",
+                "paths": [
+					"/ul/app1,
+                ]
+            }
+        ]
+    }
+}
